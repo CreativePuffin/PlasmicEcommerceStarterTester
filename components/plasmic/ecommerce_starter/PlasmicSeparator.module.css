@@ -1,0 +1,11 @@
+.root {
+  display: block;
+  width: 100%;
+  height: 1px;
+  position: relative;
+  min-width: 0;
+  background: #e5e5ea;
+}
+.root__dark {
+  background: #666666;
+}
